@@ -9,7 +9,7 @@
   "author": "Pascal Thormeier",
   "license": "MIT",
   "dependencies": {
-    "@faker-js/faker": "^7.6.0",
+    "@faker-js/faker": "^10.5.0",
     "@fontsource/inter": "^4.5.14",
     "@fontsource/material-icons": "^4.5.4",
     "@fontsource/material-icons-outlined": "^4.5.4",
